@@ -27,7 +27,7 @@ app.use(cookieParser());
 
 const allowedOrigins = [
   'http://localhost:3000',
-  'https://procoin.vercel.app'
+  'https://bitbitech.vercel.app'
 ];
 
 const corsOptions = {
